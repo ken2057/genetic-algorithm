@@ -1,3 +1,7 @@
 # genetic-algorithm
 
-idea base from https://youtu.be/bGz7mv2vD6g
+Package:
+- Numpy
+- Pygame
+
+Idea base from https://youtu.be/bGz7mv2vD6g
